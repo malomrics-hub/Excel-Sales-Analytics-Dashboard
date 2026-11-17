@@ -71,7 +71,7 @@ Designed an Excel dashboard to visualize analytical results and communicate sale
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](images/dashboard.png)
+![Sales Analytics Dashboard](Dashboard.png)
 
 ## Key Technical Highlights
 
